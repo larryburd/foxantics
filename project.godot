@@ -58,6 +58,8 @@ shoot={
 [layer_names]
 
 2d_physics/layer_1="platforms"
+2d_physics/layer_2="player_hitbox"
+2d_physics/layer_3="enemy_hitbox"
 
 [rendering]
 
